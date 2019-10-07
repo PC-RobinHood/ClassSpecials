@@ -1,4 +1,4 @@
-package com.flutter.specials;
+package com.example.class_specials;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
